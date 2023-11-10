@@ -1,12 +1,5 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/330/badge)](https://bestpractices.coreinfrastructure.org/projects/330)
 
-|Branch|CI system|Status|Test suite coverage|Fuzzer coverage|
-|:----:|:-------:|-----:|:------:|:-------------:|
-|Master/3.8.x|Gitlab|[![build status](https://gitlab.com/gnutls/gnutls/badges/master/pipeline.svg)](https://gitlab.com/gnutls/gnutls/commits/master)|[![coverage report](https://gitlab.com/gnutls/gnutls/badges/master/coverage.svg)](https://gnutls.gitlab.io/coverage/master)|[![Fuzzer coverage report](https://gnutls.gitlab.io/coverage/master-fuzz/badge.svg)](https://gnutls.gitlab.io/coverage/master-fuzz)|
-|Master/3.8.x|Github Actions|[![build status](https://github.com/gnutls/gnutls/workflows/MacOS%20CI/badge.svg)](https://github.com/gnutls/gnutls/actions)|N/A|N/A|
-|3.7.x|Gitlab|[![build status](https://gitlab.com/gnutls/gnutls/badges/gnutls_3_7_x/pipeline.svg)](https://gitlab.com/gnutls/gnutls/commits/gnutls_3_7_x)|N/A|N/A|
-|3.6.x|Gitlab|[![build status](https://gitlab.com/gnutls/gnutls/badges/gnutls_3_6_x/pipeline.svg)](https://gitlab.com/gnutls/gnutls/commits/gnutls_3_6_x)|N/A|N/A|
-
 
 # GnuTLS -- Information for developers
 
